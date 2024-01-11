@@ -1,0 +1,14 @@
+#btn {
+  background-color: lightgreen;
+  color: white;
+  border: 1px solid white;
+  border-radius: 5px;
+  height: 30px;
+  width: 70px;
+}
+
+#cityname {
+  height: 25px;
+  width: 150px;
+  border-radius: 5px;
+}
